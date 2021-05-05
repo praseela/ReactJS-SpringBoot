@@ -1,0 +1,3 @@
+[submodule "sample-react"]
+	path = sample-react
+	url = https://github.com/PraseelaRadhakrishnan/Spring-Boot-ReactJS.git

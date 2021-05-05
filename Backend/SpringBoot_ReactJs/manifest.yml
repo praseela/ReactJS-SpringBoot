@@ -1,0 +1,11 @@
+---
+applications:
+- name: SpringBoot-ReactJS
+  path: \target\SpringBoot_ReactJs-0.0.1-SNAPSHOT.jar
+  routes: 
+  - route: springboot-reactjs.cfapps.io
+  services:
+    - mysqldb
+  env:
+    WELCOME_MESSAGE: Hello from the review environment
+    JBP_CONFIG_OPEN_JDK_JRE: '{ jre: { version: 11.+ } }'

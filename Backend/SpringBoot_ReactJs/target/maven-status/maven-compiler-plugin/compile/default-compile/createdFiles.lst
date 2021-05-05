@@ -1,0 +1,9 @@
+com\demo\in\config\SwaggerConfiguration.class
+com\demo\in\service\PersonServiceImpl.class
+com\demo\in\config\CORSFilter.class
+com\demo\in\ServletInitializer.class
+com\demo\in\service\PersonService.class
+com\demo\in\SpringBootReactJsApplication.class
+com\demo\in\controller\PersonController.class
+com\demo\in\model\Person.class
+com\demo\in\repository\PersonRepository.class
